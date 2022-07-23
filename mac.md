@@ -20,3 +20,5 @@ Now that you are all set up, it's time to learn a little more about the tools of
     merge cannot be done due to one or more of a number of reasons
 8. How do you resolve a merge conflict?
     find out what is causing the conflict and attempt to address the issue
+
+    forgot to complete work on new branch
